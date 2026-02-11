@@ -1,0 +1,14 @@
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\bin\Debug\net10.0\Task_two.exe
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\bin\Debug\net10.0\Task_two.deps.json
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\bin\Debug\net10.0\Task_two.runtimeconfig.json
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\bin\Debug\net10.0\Task_two.dll
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\bin\Debug\net10.0\Task_two.pdb
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.AssemblyInfoInputs.cache
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.AssemblyInfo.cs
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.csproj.CoreCompileInputs.cache
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.dll
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\refint\Task_two.dll
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.pdb
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\Task_two.genruntimeconfig.cache
+D:\programming\Route\C#_basic\session-2\Session_2\Task_two\obj\Debug\net10.0\ref\Task_two.dll
