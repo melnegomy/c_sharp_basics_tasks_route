@@ -1,0 +1,14 @@
+D:\programming\Route\C#_basic\session-4\assignment_3\bin\Debug\net8.0\assignment_3.exe
+D:\programming\Route\C#_basic\session-4\assignment_3\bin\Debug\net8.0\assignment_3.deps.json
+D:\programming\Route\C#_basic\session-4\assignment_3\bin\Debug\net8.0\assignment_3.runtimeconfig.json
+D:\programming\Route\C#_basic\session-4\assignment_3\bin\Debug\net8.0\assignment_3.dll
+D:\programming\Route\C#_basic\session-4\assignment_3\bin\Debug\net8.0\assignment_3.pdb
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.AssemblyInfoInputs.cache
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.AssemblyInfo.cs
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.csproj.CoreCompileInputs.cache
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.dll
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\refint\assignment_3.dll
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.pdb
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\assignment_3.genruntimeconfig.cache
+D:\programming\Route\C#_basic\session-4\assignment_3\obj\Debug\net8.0\ref\assignment_3.dll
