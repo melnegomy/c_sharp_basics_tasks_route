@@ -1,0 +1,14 @@
+D:\programming\Route\C#_basic\session5\Assignment-5\bin\Debug\net8.0\Assignment-5.exe
+D:\programming\Route\C#_basic\session5\Assignment-5\bin\Debug\net8.0\Assignment-5.deps.json
+D:\programming\Route\C#_basic\session5\Assignment-5\bin\Debug\net8.0\Assignment-5.runtimeconfig.json
+D:\programming\Route\C#_basic\session5\Assignment-5\bin\Debug\net8.0\Assignment-5.dll
+D:\programming\Route\C#_basic\session5\Assignment-5\bin\Debug\net8.0\Assignment-5.pdb
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.AssemblyInfoInputs.cache
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.AssemblyInfo.cs
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.csproj.CoreCompileInputs.cache
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.dll
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\refint\Assignment-5.dll
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.pdb
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\Assignment-5.genruntimeconfig.cache
+D:\programming\Route\C#_basic\session5\Assignment-5\obj\Debug\net8.0\ref\Assignment-5.dll
